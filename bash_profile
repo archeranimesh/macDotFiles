@@ -16,5 +16,5 @@ export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$
 # * after an executable, 
 # and a @ after a symlink, 
 # making it easier to quickly identify things in directory listings.
-alias ls='ls -lGFh'
+alias ls='ls -lGFha'
 alias ll='ls -ltraGFh'
